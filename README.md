@@ -1,10 +1,20 @@
-<p align="center"> <img src="./banner.gif" width="100%" /> </p> <h1 align="center">Hey, I'm Uday 👋</h1> <p align="center"> <strong> AI Systems Engineer • Agentic Workflows • MCP Tools • Data Engineering </strong> </p> <p align="center"> Building practical AI systems that automate real work. </p> <br>
+<p align="center">
+  <img src="./banner.gif" width="100%" />
+</p>
+
+<h1 align="center">Hey, I'm Uday 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=999999&color=58A6FF&center=true&vCenter=true&repeat=false&width=720&height=45&lines=Agentic+Workflows+%7C+MCP+Tools+%7C+Data+Engineer" />
+</p>
+
+<br>
 
 <h3 style="border-bottom: none;">
   💫 About Me
 </h3>
 
-I work professionally in **data engineering**, but most of my curiosity goes into building with **AI**.
+I work professionally in **data engineering**, but most of my curiosity goes into building practical **AI** systems that automate real work..
 
 I build and experiment with **AI websites, MCP tools, automation workflows, and my own OpenClaw-style agentic setup**. I like creating systems where agents can use tools, work with data, call APIs, run tasks, and turn rough ideas into working products.
 
@@ -67,22 +77,7 @@ My focus is the mix of **AI agents + tools + data engineering**: practical syste
 - data pipelines that support AI products  
 - automation that removes boring manual work  
 
-<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uday&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Uday&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uday&theme=tokyonight&hide_border=true&layout=compact" />
-</p>
-
-<br>
-
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Uday&style=flat-square&color=0891b2" />
 </p>
