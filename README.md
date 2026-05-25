@@ -5,16 +5,18 @@
 <h1 align="center">Hey, I'm Uday 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=999999&color=58A6FF&center=true&vCenter=true&repeat=false&width=720&height=45&lines=Agentic+Workflows+%7C+MCP+Tools+%7C+Data+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=00F5D4&center=true&vCenter=true&width=720&height=45&lines=Agentic+Workflows+%7C+MCP+Tools+%7C+Data+Engineer;Building+AI+systems+that+automate+real+work;Agents+%2B+Tools+%2B+Data+Pipelines" />
 </p>
 
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:111827,100:020617&height=2&section=header" />
+</p>
 
 <h3 style="border-bottom: none;">
   💫 About Me
 </h3>
 
-I work professionally in **data engineering**, but most of my curiosity goes into building practical **AI** systems that automate real work..
+I work professionally in **data engineering**, but most of my curiosity goes into building practical **AI** systems that automate real work.
 
 I build and experiment with **AI websites, MCP tools, automation workflows, and my own OpenClaw-style agentic setup**. I like creating systems where agents can use tools, work with data, call APIs, run tasks, and turn rough ideas into working products.
 
@@ -39,37 +41,38 @@ My focus is the mix of **AI agents + tools + data engineering**: practical syste
 
 <br>
 
-<p>
-  <img src="https://em-content.zobj.net/source/apple/391/toolbox_1f9f0.png" width="26">
-  <strong> Tech I Work With</strong>
-</p>
+
+<h3 style="border-bottom: none;">
+  🧰 Tech I Work With
+</h3>
 
 <p>
   <strong>AI + Agents | Cloud + Build | Data Engineering</strong>
 </p>
 
-![AI Agents](https://img.shields.io/badge/AI%20Agents-111827?style=flat-square&logo=openai&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-0F172A?style=flat-square&logo=protocols.io&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-1E293B?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-334155?style=flat-square&logo=databricks&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-0891B2?style=flat-square&logo=zapier&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![APIs](https://img.shields.io/badge/APIs-0EA5E9?style=flat-square&logo=fastapi&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-020617?style=for-the-badge&logo=openai&logoColor=00F5D4)
+![MCP](https://img.shields.io/badge/MCP-020617?style=for-the-badge&logo=protocols.io&logoColor=00F5D4)
+![LLMs](https://img.shields.io/badge/LLMs-020617?style=for-the-badge&logo=openai&logoColor=00F5D4)
+![RAG](https://img.shields.io/badge/RAG-020617?style=for-the-badge&logo=databricks&logoColor=FF7A00)
+![Automation](https://img.shields.io/badge/Automation-020617?style=for-the-badge&logo=zapier&logoColor=FF7A00)
+
+![Python](https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=FFD43B)
+![SQL](https://img.shields.io/badge/SQL-020617?style=for-the-badge&logo=postgresql&logoColor=00F5D4)
+![Databricks](https://img.shields.io/badge/Databricks-020617?style=for-the-badge&logo=databricks&logoColor=FF3621)
+![PySpark](https://img.shields.io/badge/PySpark-020617?style=for-the-badge&logo=apachespark&logoColor=FF7A00)
+![Snowflake](https://img.shields.io/badge/Snowflake-020617?style=for-the-badge&logo=snowflake&logoColor=00F5D4)
+
+![Azure](https://img.shields.io/badge/Azure-020617?style=for-the-badge&logo=microsoftazure&logoColor=00F5D4)
+![AWS](https://img.shields.io/badge/AWS-020617?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Git](https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=FF7A00)
+![Linux](https://img.shields.io/badge/Linux-020617?style=for-the-badge&logo=linux&logoColor=FFD43B)
+![APIs](https://img.shields.io/badge/APIs-020617?style=for-the-badge&logo=fastapi&logoColor=00F5D4)
 
 <br>
 
-<p>
-  <img src="https://em-content.zobj.net/source/apple/391/rocket_1f680.png" width="26">
-  <strong> Current Direction</strong>
-</p>
+<h3 style="border-bottom: none;">
+  🚀 Current Direction
+</h3>
 
 - agentic workflows that can use tools  
 - MCP servers and custom integrations  
@@ -77,7 +80,12 @@ My focus is the mix of **AI agents + tools + data engineering**: practical syste
 - data pipelines that support AI products  
 - automation that removes boring manual work  
 
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:00f5d4,100:020617&height=2&section=footer" />
+</p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Uday&style=flat-square&color=0891b2" />
+  <img src="https://komarev.com/ghpvc/?username=Uday&style=for-the-badge&color=020617&labelColor=020617" />
 </p>
