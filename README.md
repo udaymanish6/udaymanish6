@@ -1,4 +1,4 @@
-<p align="center">
+<p align="right">
   <img src="./uday-ai-mascot-assistant.gif" alt="AI assistant avatar" width="320" />
 </p>
 
