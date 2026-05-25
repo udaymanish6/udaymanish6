@@ -1,13 +1,16 @@
-
 <h1 align="center">Hey, I'm Uday 👋</h1>
 
-<h3 align="center">
-  AI Builder • Agentic Systems • MCP Tools • Data Engineering
+<p align="center">
+  <strong>
+    AI Builder • Agentic Systems • MCP Tools • Data Engineering
+  </strong>
+</p>
+
+<br>
+
+<h3 style="border-bottom: none;">
+  💫 About Me
 </h3>
-
----
-
-## 💫 About Me
 
 I work professionally in **data engineering**, but most of my curiosity goes into building with **AI**.
 
@@ -15,12 +18,15 @@ I build and experiment with **AI websites, MCP tools, automation workflows, and 
 
 My focus is the mix of **AI agents + tools + data engineering**: practical systems that can reason, automate workflows, connect apps, and help ship real stuff faster.
 
-I like building AI systems that do real work, not just demos.
+> I like building AI systems that do real work, not just demos.
 
+<br>
 
 <img align="right" src="./uday-ai-mascot-assistant.gif" alt="AI assistant avatar" width="320" />
 
-<h1 align="left">⚡ What I Build</h1>
+<h3 style="border-bottom: none;">
+  ⚡ What I Build
+</h3>
 
 🤖 AI agents and agentic workflows<br>
 🛠️ MCP tools and custom tool servers<br>
@@ -31,61 +37,76 @@ I like building AI systems that do real work, not just demos.
 
 <br clear="right"/>
 
----
+<br>
 
-## 🧰 Tech I Work With
+<p>
+  <img src="https://em-content.zobj.net/source/apple/391/toolbox_1f9f0.png" width="26">
+  <strong> Tech I Work With</strong>
+</p>
 
-### AI + Agents
+<p>
+  <strong>AI + Agents</strong>
+</p>
+
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-111827?style=flat-square&logo=openai&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-0F172A?style=flat-square&logo=protocols.io&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-1E293B?style=flat-square&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-334155?style=flat-square&logo=databricks&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-0891B2?style=flat-square&logo=zapier&logoColor=white)
 
-### Data Engineering
+<br>
+
+<p>
+  <strong>Data Engineering</strong>
+</p>
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 
-### Cloud + Build
+<br>
+
+<p>
+  <strong>Cloud + Build</strong>
+</p>
+
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![APIs](https://img.shields.io/badge/APIs-0EA5E9?style=flat-square&logo=fastapi&logoColor=white)
 
----
+<br>
 
-## 🚀 Current Direction
+<p>
+  <img src="https://em-content.zobj.net/source/apple/391/rocket_1f680.png" width="26">
+  <strong> Current Direction</strong>
+</p>
 
-Building practical AI systems around:
+- agentic workflows that can use tools  
+- MCP servers and custom integrations  
+- AI-powered websites and dashboards  
+- data pipelines that support AI products  
+- automation that removes boring manual work  
 
-- agentic workflows that can use tools
-- MCP servers and custom integrations
-- AI-powered websites and dashboards
-- data pipelines that support AI products
-- automation that removes boring manual work
-
----
-
-## 📊 GitHub Stats
+<br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uday&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Uday&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Uday&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=Uday&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uday&theme=tokyonight&hide_border=true&layout=compact" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uday&theme=tokyonight&hide_border=true&layout=compact" />
 </p>
 
----
+<br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Uday&style=flat-square&color=0891b2" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Uday&style=flat-square&color=0891b2" />
 </p>
