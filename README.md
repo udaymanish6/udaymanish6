@@ -24,8 +24,6 @@ My focus is the mix of **AI agents + tools + data engineering**: practical syste
 
 <br>
 
-<img align="right" src="./uday-ai-mascot-assistant.gif" alt="AI assistant avatar" width="320" />
-
 <h3 style="border-bottom: none;">
   ⚡ What I Build
 </h3>
