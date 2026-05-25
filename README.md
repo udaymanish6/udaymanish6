@@ -15,30 +15,21 @@ I build and experiment with **AI websites, MCP tools, automation workflows, and 
 
 My focus is the mix of **AI agents + tools + data engineering**: practical systems that can reason, automate workflows, connect apps, and help ship real stuff faster.
 
-> I like building AI systems that do real work, not just demos.
+I like building AI systems that do real work, not just demos.
 
----
 
-<table border="0">
-<tr>
-<td valign="top">
+<img align="right" src="./uday-ai-mascot-assistant.gif" alt="AI assistant avatar" width="320" />
 
-## ⚡ What I Build
+<h1 align="left">⚡ What I Build</h1>
 
-- 🤖 AI agents and agentic workflows  
-- 🛠️ MCP tools and custom tool servers  
-- 🌐 AI websites, dashboards, and product experiments  
-- ⚙️ Automation systems that connect apps, APIs, and data  
-- 📊 Data pipelines and AI-ready data systems  
-- 🧪 LLM, RAG, and workflow experiments  
+🤖 AI agents and agentic workflows<br>
+🛠️ MCP tools and custom tool servers<br>
+🌐 AI websites, dashboards, and product experiments<br>
+⚙️ Automation systems that connect apps, APIs, and data<br>
+📊 Data pipelines and AI-ready data systems<br>
+🧪 LLM, RAG, and workflow experiments<br>
 
-</td>
-
-<td valign="top">
-<img src="./uday-ai-mascot-assistant.gif" width="320"/>
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
