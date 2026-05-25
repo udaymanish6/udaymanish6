@@ -19,24 +19,25 @@ My focus is the mix of **AI agents + tools + data engineering**: practical syste
 
 ---
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
+<table border="0">
+<tr>
+<td valign="top">
 
 ## ⚡ What I Build
 
-- 🤖 AI agents and agentic workflows
-- 🛠️ MCP tools and custom tool servers
-- 🌐 AI websites, dashboards, and product experiments
-- ⚙️ Automation systems that connect apps, APIs, and data
-- 📊 Data pipelines and AI-ready data systems
-- 🧪 LLM, RAG, and workflow experiments
+- 🤖 AI agents and agentic workflows  
+- 🛠️ MCP tools and custom tool servers  
+- 🌐 AI websites, dashboards, and product experiments  
+- ⚙️ Automation systems that connect apps, APIs, and data  
+- 📊 Data pipelines and AI-ready data systems  
+- 🧪 LLM, RAG, and workflow experiments  
 
-    </td>
-    <td width="40%" align="right" valign="top">
-      <img src="./uday-ai-mascot-assistant.gif" alt="AI assistant avatar" width="320" />
-    </td>
-  </tr>
+</td>
+
+<td valign="top">
+<img src="./uday-ai-mascot-assistant.gif" width="320"/>
+</td>
+</tr>
 </table>
 
 ---
