@@ -1,12 +1,4 @@
-<h1 align="center">Hey, I'm Uday 👋</h1>
-
-<p align="center">
-  <strong>
-    AI Builder • Agentic Systems • MCP Tools • Data Engineering
-  </strong>
-</p>
-
-<br>
+<p align="center"> <img src="./banner.gif" width="100%" /> </p> <h1 align="center">Hey, I'm Uday 👋</h1> <p align="center"> <strong> AI Systems Engineer • Agentic Workflows • MCP Tools • Data Engineering </strong> </p> <p align="center"> Building practical AI systems that automate real work. </p> <br>
 
 <h3 style="border-bottom: none;">
   💫 About Me
@@ -16,9 +8,7 @@ I work professionally in **data engineering**, but most of my curiosity goes int
 
 I build and experiment with **AI websites, MCP tools, automation workflows, and my own OpenClaw-style agentic setup**. I like creating systems where agents can use tools, work with data, call APIs, run tasks, and turn rough ideas into working products.
 
-My focus is the mix of **AI agents + tools + data engineering**: practical systems that can reason, automate workflows, connect apps, and help ship real stuff faster.
-
-> I like building AI systems that do real work, not just demos.
+My focus is the mix of **AI agents + tools + data engineering**: practical systems that can reason, automate workflows, connect apps, and help ship real stuff faster. I like building AI systems that do real work, not just demos.
 
 <br>
 
@@ -45,7 +35,7 @@ My focus is the mix of **AI agents + tools + data engineering**: practical syste
 </p>
 
 <p>
-  <strong>AI + Agents</strong>
+  <strong>AI + Agents | Cloud + Build | Data Engineering</strong>
 </p>
 
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-111827?style=flat-square&logo=openai&logoColor=white)
@@ -53,25 +43,11 @@ My focus is the mix of **AI agents + tools + data engineering**: practical syste
 ![LLMs](https://img.shields.io/badge/LLMs-1E293B?style=flat-square&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-334155?style=flat-square&logo=databricks&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-0891B2?style=flat-square&logo=zapier&logoColor=white)
-
-<br>
-
-<p>
-  <strong>Data Engineering</strong>
-</p>
-
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-
-<br>
-
-<p>
-  <strong>Cloud + Build</strong>
-</p>
-
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
